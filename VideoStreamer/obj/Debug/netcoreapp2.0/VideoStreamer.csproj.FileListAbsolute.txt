@@ -1,0 +1,14 @@
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/bin/Debug/netcoreapp2.0/VideoStreamer.deps.json
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/bin/Debug/netcoreapp2.0/VideoStreamer.runtimeconfig.json
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/bin/Debug/netcoreapp2.0/VideoStreamer.runtimeconfig.dev.json
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/bin/Debug/netcoreapp2.0/VideoStreamer.dll
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/bin/Debug/netcoreapp2.0/VideoStreamer.pdb
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/bin/Debug/netcoreapp2.0/ProcessStreamer.dll
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/bin/Debug/netcoreapp2.0/ProcessStreamer.pdb
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/obj/Debug/netcoreapp2.0/VideoStreamer.csprojAssemblyReference.cache
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/obj/Debug/netcoreapp2.0/VideoStreamer.csproj.CoreCompileInputs.cache
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/obj/Debug/netcoreapp2.0/VideoStreamer.AssemblyInfoInputs.cache
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/obj/Debug/netcoreapp2.0/VideoStreamer.AssemblyInfo.cs
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/obj/Debug/netcoreapp2.0/VideoStreamer.csproj.CopyComplete
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/obj/Debug/netcoreapp2.0/VideoStreamer.dll
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/VideoStreamer/obj/Debug/netcoreapp2.0/VideoStreamer.pdb

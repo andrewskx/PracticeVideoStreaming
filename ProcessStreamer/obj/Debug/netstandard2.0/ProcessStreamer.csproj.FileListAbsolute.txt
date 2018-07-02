@@ -1,0 +1,9 @@
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/bin/Debug/netstandard2.0/ProcessStreamer.deps.json
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/bin/Debug/netstandard2.0/ProcessStreamer.dll
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/bin/Debug/netstandard2.0/ProcessStreamer.pdb
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/obj/Debug/netstandard2.0/ProcessStreamer.csprojAssemblyReference.cache
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/obj/Debug/netstandard2.0/ProcessStreamer.csproj.CoreCompileInputs.cache
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/obj/Debug/netstandard2.0/ProcessStreamer.AssemblyInfoInputs.cache
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/obj/Debug/netstandard2.0/ProcessStreamer.AssemblyInfo.cs
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/obj/Debug/netstandard2.0/ProcessStreamer.dll
+/Users/andrewska/Desktop/PracticeProject-FFMPEGVideoStreamingStable/ProcessStreamer/obj/Debug/netstandard2.0/ProcessStreamer.pdb
